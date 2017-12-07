@@ -1,1 +1,3 @@
 # burger
+
+I used the Cats App ctivity as a base for taking a lot of the code, and I got some of the functionality, such as getting the server running without errors and pulling the entries from the database, but I have not figured out how to update them by eating them or adding a new burger. To be honest, I've tried to figure it out a little myself, but there were certain points where I was not sure which document was the one that I should be looking at to fix the problem. Is it a JS issue, or a database issue, or a server issue? I'm having trouble parsing which is which for this activity, which is why it is not totally complete.

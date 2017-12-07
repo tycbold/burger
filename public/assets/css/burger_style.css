@@ -1,0 +1,42 @@
+body {
+	font-family: 'Helvetica', sans-serif;
+	background-color: skyblue;
+}
+
+.eaten {
+	float: right;
+}
+
+.not-eaten {
+	float: left;
+}
+
+.add-burger {
+	clear: both;
+	margin-top: 300px;
+	margin-left: 200px;
+}
+
+li {
+  padding: 5px;
+  margin: 5px;
+  background: #faebd7;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  background: aqua;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
+
+h1 {
+	text-align: center;
+}
